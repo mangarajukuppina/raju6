@@ -1,0 +1,52 @@
+#p1{
+    
+    color: rgb(17, 0, 249);
+    text-align: center;
+
+}
+#img{
+    height: 300px;
+    width: 300px;
+}
+#birth{
+    display: flex;
+    margin-left: 30px;
+    color: rgb(242, 9, 25);
+}
+#birth div{
+    margin-left: 10px;
+    color: rgb(225, 196, 0);
+}
+#place h2{
+    color: rgb(255, 196, 0);
+    margin-left: 1180px;
+}
+body{
+    background-color: aqua;
+}
+#mar{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+#settings{
+    margin-left: 1280px;
+    height: 70px;
+    cursor: pointer;
+}
+#s1{
+    background-color: red;
+    height: 250px;
+    width: 150px;
+    margin-left: 1240px;
+    border-radius: 10px;
+    display: none;
+}
+#close{
+    background-color: blue;
+    border-radius: 10px;
+    text-align: right;
+    font-size: 20px;
+    color: chartreuse;
+    padding: 5px;
+    cursor: pointer;
+}
